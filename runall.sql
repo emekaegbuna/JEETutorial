@@ -1,0 +1,17 @@
+@@header
+@@footer
+@@success
+@@failure
+@@deletemp
+@@updatemp 
+@@modemp 
+@@showemp
+@@listall
+@@listdept
+@@showdate 
+@@calendar 
+@@redirect 
+@@printcgi 
+@@showsrc 
+@@home 
+@@frames
